@@ -1,7 +1,6 @@
 import sqlite3
 import os
 
-
 def connect():
     ''' Create a database if not existed and make a connection to it.
     
