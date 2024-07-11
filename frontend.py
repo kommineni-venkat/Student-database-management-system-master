@@ -1,7 +1,6 @@
 from tkinter import *
 import backend
-    
-   
+      
 def get_selected_row(event):
     ''' get_selected_row function to get content of the selected row.
     
