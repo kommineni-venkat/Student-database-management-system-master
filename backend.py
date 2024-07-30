@@ -59,7 +59,6 @@ def search(fn="",ln="",term="",gpa=""):
 
 def delete(id):
     ''' delete function to delete a specific student from the database.
-    
         Arguments
         ---------
         id: int, id of the student in the database.
